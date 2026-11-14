@@ -8,7 +8,7 @@ I'm learning Python and the basics of web development, and I learn best by build
 
 | Project | What it will do | Status |
 |---|---|---|
-| **CertiGen** | Turn a spreadsheet of names into one ready-to-print PDF certificate per person | Planned, starting first |
+| **[CertiGen](https://github.com/tejasvinisharma/certigen)** | Turn a spreadsheet of names into one ready-to-print PDF certificate per person | Repo set up, starting first |
 | **Excel Report Cleaner** | Merge a month of messy spreadsheets into one clean workbook with a summary sheet | Planned |
 | **Coaching Institute Demo Website** | A mobile-first one-page site with timings, fees, an enquiry form and a WhatsApp button (a demo with made-up content) | Planned |
 
